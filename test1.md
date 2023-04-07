@@ -21,9 +21,6 @@ aaaa
 aaaa
 aaaa
 aaaa
-aaaa
-cccccccccccc
-cccccccccccc
 cccccccccccc
 cccccccccccc
 cccccccccccc
