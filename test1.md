@@ -21,8 +21,6 @@ aaaa
 aaaa
 aaaa
 aaaa
-aaaa
-cccccccccccc
 cccccccccccc
 cccccccccccc
 aaaa
@@ -37,17 +35,10 @@ bbbb
 sssss
 eeee
 bbbb
-yyyyy
-aaaaaaaaaaaaaa
-aaaaaaaaaaaaaa
-xxxxx
-wwwww
-aaaaaaaaaaaaaa
 aaaaaaaaaaaaaa
 aaaaaaaaaaaaaa
 ccccc
 aaafeererefe
-aabbbbaaaaa
 aaaaaaaaaaa
 afererexxxxfee
 aferereferer
