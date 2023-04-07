@@ -25,11 +25,6 @@ aaaa
 cccccccccccc
 cccccccccccc
 cccccccccccc
-cccccccccccc
-cccccccccccc
-cccccccccccc
-cccccccccccc
-cccccccccccc
 aaaa
 aaaa
 aaaa
