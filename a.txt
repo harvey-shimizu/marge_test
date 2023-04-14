@@ -1,12 +1,13 @@
 aaaa
 bbb
 print("hello")
-ccc
-print("hello")
-print("good morning")
 print("add texts as featureA")
 print("good morning")
 aaa
 ddd
+aaaa
+bbbb
+cccc
 bbbb
 aaaa
+eeee
