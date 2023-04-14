@@ -1,8 +1,10 @@
 aaaa
 bbb
 eee
-fff
+print("hello")
 ccc
+print("good morning")
+aaa
 ddd
 bbbb
 aaaa
